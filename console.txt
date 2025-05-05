@@ -1,0 +1,84 @@
+task1.js:48 Product details
+task1.js:62 Array(2)
+task1.js:67 
+----Find product by Id(3)----
+
+task1.js:48 Product details
+task1.js:51 productId: 3
+task1.js:51 name: Toyota
+task1.js:51 description: car
+task1.js:51 price: 200000
+task1.js:51 stock: 20
+task1.js:51 category: automatic,manual,GA
+task1.js:53 tags: car, fourwheeler, twowheeler
+task1.js:51 discount: [object Object]
+task1.js:88 
+-----apply discount product(1)
+task1.js:48 Product details
+task1.js:51 productId: 1
+task1.js:51 name: maruti suzuki
+task1.js:51 description: car
+task1.js:51 price: 176000
+task1.js:51 stock: 2
+task1.js:51 category: automatic,manual,GA
+task1.js:53 tags: car, fourwheeler, twowheeler
+task1.js:51 discount: null
+task1.js:102 
+----update stock----
+task1.js:97 stock for product 3 updated to 32
+task1.js:48 Product details
+task1.js:51 productId: 3
+task1.js:51 name: Toyota
+task1.js:51 description: car
+task1.js:51 price: 200000
+task1.js:51 stock: 32
+task1.js:51 category: automatic,manual,GA
+task1.js:53 tags: car, fourwheeler, twowheeler
+task1.js:51 discount: [object Object]
+task1.js:118 
+---add tag productid (3)
+task1.js:111 tagsNew tag include the 3
+task1.js:113 tagNew tag already existed in3
+task1.js:48 Product details
+task1.js:51 productId: 3
+task1.js:51 name: Toyota
+task1.js:51 description: car
+task1.js:51 price: 200000
+task1.js:51 stock: 32
+task1.js:51 category: automatic,manual,GA
+task1.js:53 tags: car, fourwheeler, twowheeler, New tag
+task1.js:51 discount: [object Object]
+task1.js:133 
+----Remove products
+task1.js:127 product with Id 3 is Removed
+task1.js:135 after removing products
+task1.js:48 Product details
+task1.js:51 productId: 1
+task1.js:51 name: maruti suzuki
+task1.js:51 description: car
+task1.js:51 price: 176000
+task1.js:51 stock: 2
+task1.js:51 category: automatic,manual,GA
+task1.js:53 tags: car, fourwheeler, twowheeler
+task1.js:51 discount: null
+task1.js:48 Product details
+task1.js:51 productId: 2
+task1.js:51 name: honda
+task1.js:51 description: car
+task1.js:51 price: 200000
+task1.js:51 stock: 30
+task1.js:51 category: automatic,manual,GA
+task1.js:53 tags: car, fourwheeler, twowheeler
+task1.js:51 discount: [object Object]
+task1.js:48 Product details
+task1.js:51 productId: 4
+task1.js:51 name: BMW
+task1.js:51 description: car
+task1.js:51 price: 200000
+task1.js:51 stock: 20
+task1.js:51 category: automatic,manual,GA
+task1.js:53 tags: car, fourwheeler, twowheeler
+task1.js:51 discount: null
+task1.js:146 
+----Totalvalue----
+task1.js:143 total value[object Object],[object Object],[object Object]
